@@ -1,21 +1,15 @@
-### Hi there 👋
-
+<>
+<hr>
 <div align = center>
-  <h3 >Hi, I'm Ioshua</h3>
+  <h3>Hi, I'm Ioshua</h3>
   <h3>I'm a Dev in making</h3>
 </div>
 
-<!--
-**Ioshua-N/Ioshua-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<p>Eu sou técnico em Programação de Jogos Digitais pela ETE-Cícero Dias e atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo SENAC.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h3 align = center>Technology Stack</h3>
+<hr>
