@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align = center>
+  <h3 >Hi, I'm Ioshua</h3>
+  <h3>I'm a Dev in making</h3>
+</div>
+
 <!--
 **Ioshua-N/Ioshua-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
